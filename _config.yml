@@ -4,12 +4,13 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: TMLong's Blog
 subtitle:
-description:
-author: John Doe
+description:哪会有人喜欢孤独，不过是不喜欢失望罢了。
+——《挪威的森林》村上春树
+author: TMLong
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
