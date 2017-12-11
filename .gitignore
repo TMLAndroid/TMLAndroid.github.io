@@ -1,22 +1,12 @@
-# Compiled class file
-*.class
+_site/*
+_theme_packages/*
 
-# Log file
-*.log
+Thumbs.db
+.DS_Store
 
-# BlueJ files
-*.ctxt
+!.gitkeep
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+.rbenv-version
+.rvmrc
 
-# Package Files #
-*.jar
-*.war
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+*.lock
