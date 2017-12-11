@@ -117,8 +117,8 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  #categories: /categories/
-  #about: /about/
+  categories: /categories/
+  about: /about/
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
@@ -225,9 +225,8 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
-  Twitter: twitter
-  Weibo: weibo
+  GitHub: https://github.com/TMLAndroid
+  JianShu: http://www.jianshu.com/u/f74ad99e1c00
 
 
 # Sidebar Avatar
