@@ -1,6 +1,6 @@
 ---
-title: Next Theme Tutorial
-description: NexT is a high quality elegant Jekyll theme ported from Hexo Next. It is crafted from scratch, with love.
+title: 有个女孩叫“廖芷珊”
+description: 这是她的名字，也是我的名字，很高兴认识你，在对的时间对的地点.
 categories:
  - tutorial
 tags:
