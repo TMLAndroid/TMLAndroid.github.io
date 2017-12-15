@@ -230,7 +230,7 @@ social_icons:
   GitHub: github
   #JianShu: jianshu
 
-reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
+reward_comment: 打赏还是要有的，万一没有呢！
 wechatpay: /assets/images/wechatpay.png
 alipay: /assets/images/alipay.png
 
@@ -238,7 +238,7 @@ alipay: /assets/images/alipay.png
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: /update/avatar.jpg
 
 
 # Table Of Contents in the Sidebar
