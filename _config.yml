@@ -173,13 +173,13 @@ font:
   global:
     # external: true will load this font family from host.
     external: true
-    family: Lato
+    family: Monda
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
   headings:
     external: true
-    family:
+    family: Roboto Slab
 
   # Font settings for posts
   # Fallback to `global` font settings.
@@ -192,13 +192,13 @@ font:
   # The `size` option use `px` as unit
   logo:
     external: true
-    family:
-    size:
+    family: Lobster Two
+    size: 24
 
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family:
+    family: PT Mono
     size:
 
 
@@ -230,7 +230,7 @@ social_icons:
   GitHub: github
   #JianShu: jianshu
 
-reward_comment: 打赏还是要有的，万一没有呢！
+reward_comment: 打赏功能还是要有的，万一有呢！
 wechatpay: /assets/images/wechatpay.png
 alipay: /assets/images/alipay.png
 
@@ -358,7 +358,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night eighties
 
 
 # ---------------------------------------------------------------
