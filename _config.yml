@@ -386,7 +386,7 @@ baidu_analytics: 1decbced2a2fd5033fb43b1cd76b7d43
 # Disqus
 disqus:
   enable: true
-  shortname: TMLong
+  shortname: tmlong
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
